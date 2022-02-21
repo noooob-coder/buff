@@ -6,3 +6,6 @@
 ### 默认采用ip代理模式，将自己申请到的获取代理IP的api填写到utils.py相应位置 
 ### get_id.py用于每个饰品的id、name、buy_max_price、buy_num、quick_price、sell_min_price、sell_num、sell_reference_price等信息，并存放在相应目录下
 ### crawer.py用于获取指定饰品过去7天的价格
+免责申明
+-------
+此代码仅供学习使用，禁止将此代码用于任何非法途径
